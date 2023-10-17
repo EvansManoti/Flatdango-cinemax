@@ -1,0 +1,44 @@
+{
+    "films": [
+    {
+    "id": "1",
+    "title": "Need For Speed",
+    "runtime": "130",
+    "capacity": 30,
+    "showtime": "04:00PM",
+    "tickets_sold": 27,
+    "description": "It tells the story of street racer, who sets off to race cross-country as a way of avenging his friend's death at the hands of a rival racer to fullfill his prophecy.",
+    "poster": "https://images.moviesanywhere.com/c0a7d03938d3b53cbd9383350da7c082/3606c40b-4873-407e-9801-7775709bea85.jpg?r=3x1&w=2400"
+    },
+    {
+    "id": "2",
+    "title": "Bullet Train",
+    "runtime": "126",
+    "capacity": 50,
+    "showtime": "06:45PM",
+    "tickets_sold": 44,
+    "description": "A Father, boards a bullet train in Tokyo in search of the attacker of his son . Meanwhile, guided by his handler, assassin is assigned to retrieve a briefcase full of cash from the same train with six assassin, replacing a sick colleague.",
+    "poster": "https://images.moviesanywhere.com/6062f2927804c5f3f9d1c2113f54bf4f/488731ed-fd5d-4214-9fca-485269889f24.webp?h=375&resize=fit&w=250"
+    },
+    {
+    "id": "3",
+    "title": "Rambo Last Blood",
+    "runtime": "93",
+    "capacity": 50,
+    "showtime": "09:30PM",
+    "tickets_sold": 31,
+    "description": "Vietnam War veteran tries to find some semblance of peace by raising horses on a ranch in Arizona. He's also developed a special familial bond with a woman named and her teenage granddaughter. But when a vicious Mexican cartel kidnaps the granddaughter, he crosses the border on a bloody and personal quest to rescue her and punish those responsible.",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg"
+    },
+    {
+    "id": "4",
+    "title": "Instant Family",
+    "runtime": "119",
+    "capacity": 50,
+    "showtime": "02:30PM",
+    "tickets_sold": 44,
+    "description": "Feeling a void in their marriage, A couple visit a foster-care center. Two social workers, guide the hopeful parents on the path to becoming adoptive parents.",
+    "poster": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKHAr2MzFVp_0aeHt-KmTmeX4IWNq6BtAvGfQHyG4RfDBOTNh5"
+    }
+    ]
+    } 
